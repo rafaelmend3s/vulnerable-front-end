@@ -14,7 +14,7 @@ To create the logging functionality needed for the new website, you have decided
 - It will start building a container based on the `./devcontainer/Dockerfile`
 ![build-codespace](./docs/build-codespaces.png)
 
-- Once the build is completed, your VS Code will start in your browser
+- Once the buillld is completed, your VS Code will start in your browser
 ![started-codespace](./docs/started-codespaces.png)
 
 ## Create a new branch
